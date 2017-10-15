@@ -57,3 +57,5 @@ GitHub Pages搭建
 ![](http://upload-images.jianshu.io/upload_images/726103-0e0dea147ca2418d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)*修改域名*
 
 稍等几分钟后，浏览器访问 GitHub昵称.GitHub.io或者zhukang.life（自己的域名），就会看到博客首页了。
+
+---
