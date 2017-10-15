@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "博学之，慎思之，明辨之，笃行之。"
 header-img: "img/green.jpg"
 ---
 
