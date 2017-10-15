@@ -3,9 +3,10 @@ layout: post
 title: 个人博客站点搭建
 date: 2017-10-15
 categories: blog
-tags: [经验,教程，知识管理]
+tags: [经验,教程,知识管理]
 description: 开博第一篇。
 ---
+
 ####用了一上午搭建了个人站点，简要做了记录如下，默认会使用GitHub
 - 域名购买
 - DNS注册
