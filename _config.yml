@@ -4,13 +4,13 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "朱康| 知行合一"  
 baseurl: ""
-url: "http://zhukang"  
+url: "http://zhukang.life"  
 
 # About/contact
 owner: 
   name: " zhukang"
   email: 274546966@qq.com
-  bio: "写就是写的报酬"
+  bio: "踩着六便士奔月"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,9 +18,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: CSZHK
 facebook_username: 
-weibo_username: 
+weibo_username: 274546966@qq.com
 zhihu_username: 
 
 # Build settings  
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 
 # Defaults for posts
 defaults:
