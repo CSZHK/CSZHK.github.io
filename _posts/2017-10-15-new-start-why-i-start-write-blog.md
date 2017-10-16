@@ -3,7 +3,7 @@ layout: post
 title: 新的开始，为什么开始写博客？
 date: 2017-10-15
 categories: blog
-tags: [经验,教程,知识管理]
+tags: [成长,领悟,思想,心得]
 description: 开博第一篇。
 
 ---
