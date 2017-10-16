@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 早起这件事情
 date: 2017-10-15
