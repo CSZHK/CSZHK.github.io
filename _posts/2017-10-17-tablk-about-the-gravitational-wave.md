@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 漫谈引力波
 date: 2017-10-17
