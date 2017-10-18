@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 闲谈粉丝经济
 date: 2017-10-18
