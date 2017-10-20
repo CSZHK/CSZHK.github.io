@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: 闲谈粉丝经济
-date: 2017-10-18
+title: 工作负能量case
+date: 2017-10-20
 categories: blog
-tags: [杂谈,娱乐，思考]
+tags: [工作,职场，思考]
 description: 
 
 ---
