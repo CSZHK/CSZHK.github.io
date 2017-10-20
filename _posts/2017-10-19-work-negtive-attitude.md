@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 工作负能量case
-date: 2017-10-20
+date: 2017-10-19
 categories: blog
 tags: [工作,职场，思考]
 description: 
