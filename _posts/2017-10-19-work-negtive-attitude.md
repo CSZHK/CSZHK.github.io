@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 工作负能量case
 date: 2017-10-20
