@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 工作负能量case
+title: 子非鱼，安知鱼之乐（一）
 date: 2017-10-20
 categories: blog
 tags: [朋友圈,热门，思考，深度，心理]
