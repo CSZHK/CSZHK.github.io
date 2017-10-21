@@ -9,7 +9,7 @@ description:
 ---
 最近微信朋友圈被一篇名为[《月入五万的西二旗人教你如何活得像月薪五千 》](https://mp.weixin.qq.com/s?__biz=MzI3MzM2ODMzOQ==&mid=2247484372&idx=1&sn=abad623890ed63a163e12029e519bffa&chksm=eb2517a8dc529ebe857f0e6bce16f3a9f07f4a797a47c2a41360bbc36bce04bc5238107b8d70&mpshare=1&scene=1&srcid=1016EcBCgIBFlVPm3r48Basi&pass_ticket=bC%2Fw8rgQ6Job7M4nZT%2Bj1ZLzRUTuS2qptQR1IjqXM40xTETUWoQzzStprWXGD5cu#rd)的文章刷屏了，文章呈现了一个西二旗标准IT码农的生活表象。我一直在琢磨这篇文章火爆背后的逻辑是啥，为什么引起了很多IT圈内外朋友们的点赞和转发？下面是我的一些思考。
 
-<center>#标题</center>
+#标题
 “月入五万”、“月薪五千”这两组鲜明对别的数据指标。想要感受其中差异，最直接的办法就是换种写法试试看。
 ####逻辑一：标准
 我们把标题改为 
