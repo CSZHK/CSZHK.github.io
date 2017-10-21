@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+description: "博学之，慎思之，明辨之，笃行之"
 header-img: "img/zhihu.jpg"
 ---
 
