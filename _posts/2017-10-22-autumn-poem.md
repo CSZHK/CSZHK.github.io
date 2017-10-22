@@ -43,8 +43,10 @@ description:
 
 ![向日葵](http://upload-images.jianshu.io/upload_images/726103-cfb3be7de2082c45.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-让我想起了梵高的名作—向日葵
+让我想起了梵高的名作—向日葵。
+
 不同的是，向日葵是在绽放，而梧桐树是在凋零。
+
 相同的是，那种生命在各个阶段最直接的表现——竭尽全力。
 
 古代骚人墨客笔下的秋天消极的。
